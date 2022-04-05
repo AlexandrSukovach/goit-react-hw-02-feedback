@@ -1,0 +1,39 @@
+
+.counter{
+display:flex;
+flex-direction: column;
+}
+button{
+max-width: 180px;
+margin-left: 40px;
+}
+.counter_buttom_good{
+
+}
+.counter_buttom_neutral{
+   
+}
+.counter_buttom_bad{
+
+}
+p{
+   margin-left: 40px;
+}
+span{
+
+}
+.counter_value_good{
+
+}
+.counter_value_neutral{
+
+}
+.counter_value_bad{
+
+}
+.counter_value_total{
+
+}
+.counter_value_feedback{
+
+}
